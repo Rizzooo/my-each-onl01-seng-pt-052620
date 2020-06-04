@@ -10,4 +10,5 @@ end
 words
 
 else
-  
+  puts "No block!"
+end
