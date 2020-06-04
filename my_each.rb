@@ -10,6 +10,6 @@ end
 words
 
 else
-  puts "No block!"
+  "No block!"
 end
 end
